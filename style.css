@@ -1,1 +1,6 @@
 /** style.css **/
+.container{
+  margin:0 auto;
+  border: outline 1 px solid #000;
+}
+
